@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION;TYPE=WORK:3.0
+FN;CHARSET=UTF-8:Kaitlyn Barnard
+N;CHARSET=UTF-8:Kaitlyn Barnard;;;;
+PROFILE:VCARD
+ADR;CHARSET=UTF-8:;;1 Letterman Drive,Building D\, Suite D4700;San Francisc
+ o;CA;94129;USA
+EMAIL:news@nodejs.org
+ORG;CHARSET=UTF-8:Node.js Foundation
+URL:https://nodejs.org/en/foundation/
+END:VCARD
